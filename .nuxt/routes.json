@@ -1,0 +1,93 @@
+[
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/order/index.vue",
+    "chunkName": "pages/order/index",
+    "_name": "_26b37a94"
+  },
+  {
+    "name": "patient",
+    "path": "/patient",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/patient/index.vue",
+    "chunkName": "pages/patient/index",
+    "_name": "_a1972326"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/user/index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_2fa445b9"
+  },
+  {
+    "name": "hosp-booking",
+    "path": "/hosp/booking",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/hosp/booking.vue",
+    "chunkName": "pages/hosp/booking",
+    "_name": "_7bf47e59"
+  },
+  {
+    "name": "hosp-schedule",
+    "path": "/hosp/schedule",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/hosp/schedule.vue",
+    "chunkName": "pages/hosp/schedule",
+    "_name": "_4d32f272"
+  },
+  {
+    "name": "order-show",
+    "path": "/order/show",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/order/show.vue",
+    "chunkName": "pages/order/show",
+    "_name": "_bb4f256e"
+  },
+  {
+    "name": "patient-add",
+    "path": "/patient/add",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/patient/add.vue",
+    "chunkName": "pages/patient/add",
+    "_name": "_0939637c"
+  },
+  {
+    "name": "patient-show",
+    "path": "/patient/show",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/patient/show.vue",
+    "chunkName": "pages/patient/show",
+    "_name": "_560a6eb2"
+  },
+  {
+    "name": "weixin-callback",
+    "path": "/weixin/callback",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/weixin/callback.vue",
+    "chunkName": "pages/weixin/callback",
+    "_name": "_4802b637"
+  },
+  {
+    "name": "hosp-detail-hoscode",
+    "path": "/hosp/detail/:hoscode?",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/hosp/detail/_hoscode.vue",
+    "chunkName": "pages/hosp/detail/_hoscode",
+    "_name": "_7418c510"
+  },
+  {
+    "name": "hosp-notice-hoscode",
+    "path": "/hosp/notice/:hoscode?",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/hosp/notice/_hoscode.vue",
+    "chunkName": "pages/hosp/notice/_hoscode",
+    "_name": "_40a83251"
+  },
+  {
+    "name": "hosp-hoscode",
+    "path": "/hosp/:hoscode?",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/hosp/_hoscode.vue",
+    "chunkName": "pages/hosp/_hoscode",
+    "_name": "_3ecfedaa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/yttao300/Documents/Career/HospitalSys/HospitalProject/reserve_front/yygh-site/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6450ddf7"
+  }
+]
